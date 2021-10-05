@@ -1,19 +1,22 @@
 body{
     background-color: darkgray;
     width: 99%;
+    font-size:85%;
 }
 .col-4{
     margin-top:5%;
     padding-left: 5%;
-    font-size: 85%;
+    
+    margin-bottom: 5%;
 }
 
 .col-7{
     margin-top:5%;
-    margin-right: 5px;
+    margin-right: 3px;
     padding-left:3%;
     padding-top: 3%;
     background-color: white;
+    margin-bottom: 5%;
 }
 .href{
     text-decoration: none;
