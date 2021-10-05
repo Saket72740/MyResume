@@ -1,0 +1,26 @@
+body{
+    background-color: darkgray;
+    width: 99%;
+}
+.col-4{
+    margin-top:5%;
+    padding-left: 5%;
+    font-size: 85%;
+}
+
+.col-7{
+    margin-top:5%;
+    margin-right: 5px;
+    padding-left:3%;
+    padding-top: 3%;
+    background-color: white;
+}
+.href{
+    text-decoration: none;
+}
+img{
+    height: auto;
+    width: 200px;
+    max-width: 60%;
+    border-radius: 50%;
+}
